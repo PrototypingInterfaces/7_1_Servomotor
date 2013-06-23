@@ -1,5 +1,5 @@
 This Patch was developed with:
 * Arduino Leonardo
-* o+o
+* _1_
 
 ![imagename](div/Servomotor.png)
